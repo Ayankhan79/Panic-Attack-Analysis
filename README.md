@@ -34,7 +34,7 @@ Insert images/snapshots here of your Power BI dashboard displaying symptom count
 
 # Insights
 
-## |Symptom | Frequency|
+### |Symptom | Frequency|
 
 Dizziness || 620 patients reported; 580 did not.
 
@@ -63,7 +63,7 @@ Age categories created via DAX: Child, Adolescent, Adult; used for group-wise an
 
 Dashboard displays medical history categories (Anxiety, Depression, None) and triggers (Caffeine, Phobia, PTSD).
 
-## Aggregated Statistics
+### Aggregated Statistics
 
 Average sleep hours, panic score, attack frequency analyzed by age group and trigger type for better understanding patterns.
  
