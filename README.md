@@ -22,13 +22,11 @@ Step 6: Created visuals like bar charts for symptom counts, card visuals for sum
 
 Step 7: Published the dashboard to the Power BI service for sharing and collaboration.
 
-Dashboard Snapshots
-Insert images/snapshots here of your Power BI dashboard displaying symptom counts, age categories, and summary insights.
 
 
 ## Snapshot of Dashboard (Power BI Service)
 
-
+### Pdf is Attached in The Repo, Including 3 Visual Dashboards , 1 Solution for the given question.
 
  
 
